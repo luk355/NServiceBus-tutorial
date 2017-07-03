@@ -1,0 +1,9 @@
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.ClientUI.exe.config
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.ClientUI.exe
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.ClientUI.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.Core.dll
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.Core.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.Core.xml
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\obj\Debug\NServiceBus.ClientUI.csprojResolveAssemblyReference.cache
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\obj\Debug\NServiceBus.ClientUI.exe
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\obj\Debug\NServiceBus.ClientUI.pdb

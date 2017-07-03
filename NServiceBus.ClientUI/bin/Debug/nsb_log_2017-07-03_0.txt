@@ -1,0 +1,14 @@
+﻿2017-07-03 17:27:03.549 INFO  DefaultFactory Logging to 'C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\' with level Info
+2017-07-03 17:27:03.665 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '3/07/2017'
+
+2017-07-03 17:27:04.703 INFO  NServiceBus.PerformanceMonitorUsersInstaller Added user 'TRADEME\lbehal' to group 'Performance Monitor Users'.
+2017-07-03 17:27:04.752 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 17:27:04.764 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Timeouts] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 17:27:04.772 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.TimeoutsDispatcher] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 17:27:04.781 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Retries] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 17:27:04.789 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 17:27:04.798 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 17:27:04.803 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 17:27:04.809 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 17:27:39.085 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-07-03 17:27:39.116 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
