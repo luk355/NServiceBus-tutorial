@@ -7,3 +7,5 @@ C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceB
 C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\obj\Debug\NServiceBus.ClientUI.csprojResolveAssemblyReference.cache
 C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\obj\Debug\NServiceBus.ClientUI.exe
 C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\obj\Debug\NServiceBus.ClientUI.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.Messages.dll
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\NServiceBus.Messages.pdb

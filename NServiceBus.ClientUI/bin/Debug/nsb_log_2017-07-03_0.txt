@@ -12,3 +12,55 @@
 2017-07-03 17:27:04.809 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
 2017-07-03 17:27:39.085 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
 2017-07-03 17:27:39.116 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-07-03 18:27:34.963 INFO  DefaultFactory Logging to 'C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\' with level Info
+2017-07-03 18:27:35.968 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '3/07/2017'
+
+2017-07-03 18:27:36.193 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'TRADEME\lbehal' to group 'Performance Monitor Users' because the user is already in group.
+2017-07-03 18:27:36.248 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:27:36.264 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Timeouts] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:27:36.274 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.TimeoutsDispatcher] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:27:36.285 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Retries] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:27:36.295 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:27:36.307 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 18:27:36.314 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 18:27:36.321 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 18:27:36.436 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:27:39.521 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 8256cb9a-9e2c-498b-8eaa-7c3bab220450
+2017-07-03 18:27:39.777 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:27:42.633 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 8256cb9a-9e2c-498b-8eaa-7c3bab220450
+2017-07-03 18:27:47.056 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 872632d4-0ba3-42c6-a4a4-3bcb0e689991
+2017-07-03 18:27:47.067 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:27:47.068 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 872632d4-0ba3-42c6-a4a4-3bcb0e689991
+2017-07-03 18:27:48.472 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 30866e24-1d36-40da-b986-9fbcb7f0bc3b
+2017-07-03 18:27:48.480 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:27:48.480 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 30866e24-1d36-40da-b986-9fbcb7f0bc3b
+2017-07-03 18:27:50.944 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 5094c8ff-5ae3-4dde-8d3f-6f2d50bc2bf3
+2017-07-03 18:27:50.962 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:27:50.963 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 5094c8ff-5ae3-4dde-8d3f-6f2d50bc2bf3
+2017-07-03 18:27:54.386 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-07-03 18:27:54.406 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-07-03 18:28:01.246 INFO  DefaultFactory Logging to 'C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.ClientUI\bin\Debug\' with level Info
+2017-07-03 18:28:01.675 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '3/07/2017'
+
+2017-07-03 18:28:01.932 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'TRADEME\lbehal' to group 'Performance Monitor Users' because the user is already in group.
+2017-07-03 18:28:01.996 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:28:02.011 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Timeouts] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:28:02.023 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.TimeoutsDispatcher] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:28:02.035 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Retries] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:28:02.050 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-07-03 18:28:02.062 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 18:28:02.071 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 18:28:02.079 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-07-03 18:28:02.179 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:28:05.080 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 1cbad417-1558-4c63-bc42-1354fb72047e
+2017-07-03 18:28:05.310 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:28:06.477 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 1cbad417-1558-4c63-bc42-1354fb72047e
+2017-07-03 18:28:09.983 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 0a098544-be66-459d-adf7-ccbd05d99832
+2017-07-03 18:28:09.994 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:28:09.995 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 0a098544-be66-459d-adf7-ccbd05d99832
+2017-07-03 18:28:11.080 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 399064d6-d9b6-4a46-83ec-3ab5fb01a4b3
+2017-07-03 18:28:11.088 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:28:11.089 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 399064d6-d9b6-4a46-83ec-3ab5fb01a4b3
+2017-07-03 18:28:12.768 INFO  NServiceBus.ClientUI.Program Sending PlaceOrder command, OrderId = 2a1a38e1-52c4-4f7f-888c-04b7f222cffb
+2017-07-03 18:28:12.779 INFO  NServiceBus.ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-07-03 18:28:12.786 INFO  NServiceBus.ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = 2a1a38e1-52c4-4f7f-888c-04b7f222cffb

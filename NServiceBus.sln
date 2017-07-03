@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.ClientUI", "NServiceBus.ClientUI\NServiceBus.ClientUI.csproj", "{83E9F2F4-0D56-46C2-A32C-4BF9C4475A09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.Messages", "NServiceBus.Messages\NServiceBus.Messages.csproj", "{D53D7BF2-CD79-4F2F-8012-A1A51B975178}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83E9F2F4-0D56-46C2-A32C-4BF9C4475A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83E9F2F4-0D56-46C2-A32C-4BF9C4475A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83E9F2F4-0D56-46C2-A32C-4BF9C4475A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53D7BF2-CD79-4F2F-8012-A1A51B975178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53D7BF2-CD79-4F2F-8012-A1A51B975178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53D7BF2-CD79-4F2F-8012-A1A51B975178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53D7BF2-CD79-4F2F-8012-A1A51B975178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\bin\Debug\NServiceBus.Messages.dll
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\bin\Debug\NServiceBus.Messages.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\obj\Debug\NServiceBus.Messages.csprojResolveAssemblyReference.cache
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\obj\Debug\NServiceBus.Messages.dll
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\obj\Debug\NServiceBus.Messages.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\bin\Debug\NServiceBus.Core.dll
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\bin\Debug\NServiceBus.Core.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Messages\bin\Debug\NServiceBus.Core.xml
