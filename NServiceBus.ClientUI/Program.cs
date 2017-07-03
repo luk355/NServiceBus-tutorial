@@ -23,6 +23,9 @@ namespace NServiceBus.ClientUI
 
             var transport = endpointConfiguration.UseTransport<MsmqTransport>();
 
+            var routing = transport.Routing();
+            routing.RouteToEndpoint(typeof(PlaceOrder), "Sales");
+
             endpointConfiguration.UseSerialization<JsonSerializer>();
             endpointConfiguration.UsePersistence<InMemoryPersistence>();
             endpointConfiguration.SendFailedMessagesTo("error");
@@ -59,7 +62,7 @@ namespace NServiceBus.ClientUI
 
                         // Send the command to the local endpoint
                         log.Info($"Sending PlaceOrder command, OrderId = {command.OrderId}");
-                        await endpointInstance.SendLocal(command)
+                        await endpointInstance.Send(command)
                             .ConfigureAwait(false);
 
                         break;

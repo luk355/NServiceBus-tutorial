@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.ClientUI", "NSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.Messages", "NServiceBus.Messages\NServiceBus.Messages.csproj", "{D53D7BF2-CD79-4F2F-8012-A1A51B975178}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.Sales", "NServiceBus.Sales\NServiceBus.Sales.csproj", "{680DE06B-5EC0-4B15-ACA3-8E33F388DA66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D53D7BF2-CD79-4F2F-8012-A1A51B975178}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D53D7BF2-CD79-4F2F-8012-A1A51B975178}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D53D7BF2-CD79-4F2F-8012-A1A51B975178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680DE06B-5EC0-4B15-ACA3-8E33F388DA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680DE06B-5EC0-4B15-ACA3-8E33F388DA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680DE06B-5EC0-4B15-ACA3-8E33F388DA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680DE06B-5EC0-4B15-ACA3-8E33F388DA66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Sales.exe.config
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Sales.exe
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Sales.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Core.dll
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Messages.dll
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Messages.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Core.pdb
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\bin\Debug\NServiceBus.Core.xml
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\obj\Debug\NServiceBus.Sales.csprojResolveAssemblyReference.cache
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\obj\Debug\NServiceBus.Sales.exe
+C:\src\NServiceBus-tutorial\NServiceBus\NServiceBus.Sales\obj\Debug\NServiceBus.Sales.pdb

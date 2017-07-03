@@ -2,7 +2,7 @@
 using NServiceBus.Logging;
 using NServiceBus.Messages;
 
-namespace NServiceBus.ClientUI
+namespace NServiceBus.Sales
 {
     public class PlaceOrderHandler :
         IHandleMessages<PlaceOrder>

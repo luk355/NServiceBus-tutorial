@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83E9F2F4-0D56-46C2-A32C-4BF9C4475A09}</ProjectGuid>
+    <ProjectGuid>{680DE06B-5EC0-4B15-ACA3-8E33F388DA66}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NServiceBus.ClientUI</RootNamespace>
-    <AssemblyName>NServiceBus.ClientUI</AssemblyName>
+    <RootNamespace>NServiceBus.Sales</RootNamespace>
+    <AssemblyName>NServiceBus.Sales</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PlaceOrderHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -55,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\NServiceBus.Messages\NServiceBus.Messages.csproj">
-      <Project>{D53D7BF2-CD79-4F2F-8012-A1A51B975178}</Project>
+      <Project>{d53d7bf2-cd79-4f2f-8012-a1a51b975178}</Project>
       <Name>NServiceBus.Messages</Name>
     </ProjectReference>
   </ItemGroup>
